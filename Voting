@@ -10,7 +10,7 @@ clrscr();
  gets(name);
 
  Cout<<"\n Enter The Age : ";
- Cin>>"%d",&age;
+ Cin>>age;
 
  if(age>=18)
   {
