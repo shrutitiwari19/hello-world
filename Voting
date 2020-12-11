@@ -14,11 +14,11 @@ clrscr();
 
  if(age>=18)
   {
-    Cout<<"\n %s is Eligible for Vote",name;
+    Cout<<"\n %s is Eligible for Vote",<<name;
   }
  else
   {
-    Cout<<"\n %s is Not Eligible for Vote",name;
+    Cout<<"\n %s is Not Eligible for Vote",<<name;
   }
 
  getch();
